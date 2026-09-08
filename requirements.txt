@@ -3,3 +3,6 @@ uvicorn
 pydantic
 google-genai
 requests
+customtkinter
+pyttsx3
+tinytuya
